@@ -1,0 +1,5 @@
+set from = tgentimc@163.com
+set smtp = smtp.163.com
+set smtp-auth-user = tgentimc
+set smtp-auth-password=WSQXKYUICBZWNXAX
+set smtp-auth=login
